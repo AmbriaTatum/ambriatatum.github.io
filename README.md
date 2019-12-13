@@ -1,2 +1,2 @@
 # ambriatatum.github.io
-Website for 342 ala me
+Creating personal website, one day...
