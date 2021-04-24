@@ -23,3 +23,6 @@ class MyForm extends React.Component {
   }
 }
 ReactDOM.render(<MyForm />, document.getElementById('root'));
+function formatDate(date) {
+  return date.toLocaleDateString();
+}
